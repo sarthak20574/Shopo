@@ -1,0 +1,64 @@
+p_name,p_id,p_price,p_available_quantity
+T-shirt,1,200,14
+shirt,2,500,23
+jeans,3,700,30
+lower,4,600,11
+jacket,5,1000,130
+trousers,6,300,140
+socks,7,100,160
+cap,8,150,169
+underwear,9,250,38
+coat,10,1500,23
+laptop,11,50000,21
+phone,12,20000,29
+tablet,13,70000,45
+ipad,14,100000,38
+smartwatch,15,5000,46
+bulb,16,50,35
+fan,17,1000,24
+TV,18,40000,23
+Ac,19,80000,40
+charger,20,500,38
+action figure,21,100,39
+construction toy,22,200,35
+creative toy,23,300,41
+games,24,400,32
+puzzle,25,500,49
+science kit,26,600,43
+wooden toy,27,700,28
+spinning toy,28,800,34
+flying toy,29,900,34
+dolls,30,1000,43
+shampoo,31,100,39
+soap,32,200,45
+cream,33,200,21
+face gel,34,400,37
+hair gel,35,500,38
+body powder,36,600,29
+baby powder,37,100,21
+face powder,38,200,48
+lotion,39,600,38
+facewash,40,800,44
+chair,41,1000,38
+table,42,2000,25
+sofa,43,5000,46
+bed,44,4000,36
+almirah,45,6000,42
+cupboard,46,2000,50
+desk,47,800,41
+dining table,48,5000,24
+book shelf,49,3000,39
+stool,50,1000,34
+pencil,51,10,40
+eraser,52,10,45
+sharpner,53,10,43
+marker,54,20,22
+crayons,55,20,50
+water colours,56,50,38
+pencil colours,57,30,43
+sketch pens,58,20,50
+scale,59,10,35
+chalk,60,10,20
+slippers,61,200,38
+sneakers,62,500,36
+boots,63,600,22
